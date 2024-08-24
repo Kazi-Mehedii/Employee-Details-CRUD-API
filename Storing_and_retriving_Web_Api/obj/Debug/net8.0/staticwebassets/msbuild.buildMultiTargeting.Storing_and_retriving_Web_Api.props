@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Storing_and_retriving_Web_Api.props" />
+</Project>
